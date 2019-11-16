@@ -32,7 +32,8 @@
         "hint": "The timezone",
         "options": [
             ["UTC", "UTC"],
-            ["Europe/Berlin", "Europa / Berlin"]
+            ["Europe/Berlin", "Europa / Berlin"],
+            ["US/Pacific", "US / Pacific"]
         ],
         "default": "UTC"
     }, {
